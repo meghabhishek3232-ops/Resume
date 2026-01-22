@@ -13,6 +13,15 @@
         background: #f4f6fb;
         color: #333;
     }
+    .profile-pic {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+    margin-bottom: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
 
     header {
         background: linear-gradient(135deg, #6a11cb, #2575fc);
@@ -105,6 +114,7 @@
 <body>
 
 <header>
+    <img src="profile.jpg" alt="Megha Profile Photo" class="profile-pic">
     <h1>Megha M</h1>
     <p>Bachelor of Computer Applications</p>
     <div class="contact">
