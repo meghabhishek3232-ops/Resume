@@ -114,7 +114,7 @@
 <body>
 
 <header>
-    <img src="profile.jpg" alt="Megha Profile Photo" class="profile-pic">
+    <img src="profile.jpg" alt="My photo">
     <h1>Megha M</h1>
     <p>Bachelor of Computer Applications</p>
     <div class="contact">
